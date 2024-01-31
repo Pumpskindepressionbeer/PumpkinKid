@@ -22,6 +22,7 @@ def bio<3 (self):
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pumpkin&show_icons=true&locale=en" alt="pumpkin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pumskindepressionbeer&" alt="pumpkin" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pumskindepressionbeer&show_icons=true&locale=en" alt="pumskindepressionbeer" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pumskindepressionbeer&" alt="pumskindepressionbeer" /></p>
