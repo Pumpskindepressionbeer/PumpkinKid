@@ -23,4 +23,4 @@ def bio<3 (self):
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Pumpskindepressionbeer&repo=ghoulbond&theme=synthwave" />
+
